@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Deployed via CodeDeploy" > /var/html/info.txt
+echo "Deployed via CodeDeploy" > /var/www/html/info.txt
